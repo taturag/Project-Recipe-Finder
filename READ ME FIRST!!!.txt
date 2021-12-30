@@ -1,0 +1,7 @@
+This project live version can be found on:
+
+forkifyapp.netlify.app
+
+This might not load from local storage, because of json and node modules.
+
+Thanks for checking :)
